@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Alex Johnson",
+    "picture": "https://randomuser.me/api/portraits/men/1.jpg",
+    "email": "alex.johnson@email.com",
+    "days_since_contact": 15,
+    "status": "overdue",
+    "tags": ["college", "close friend"],
+    "bio": "Met in university. We love hiking together and discussing tech startups.",
+    "goal": 14,
+    "next_due_date": "2025-07-20"
+  },
+  {
+    "id": 2,
+    "name": "Sarah Williams",
+    "picture": "https://randomuser.me/api/portraits/women/2.jpg",
+    "email": "sarah.williams@email.com",
+    "days_since_contact": 8,
+    "status": "almost due",
+    "tags": ["work", "mentor"],
+    "bio": "My first manager at TechCorp. She taught me everything about coding.",
+    "goal": 10,
+    "next_due_date": "2025-07-25"
+  },
+  {
+    "id": 3,
+    "name": "Mike Chen",
+    "picture": "https://randomuser.me/api/portraits/men/3.jpg",
+    "email": "mike.chen@email.com",
+    "days_since_contact": 3,
+    "status": "on-track",
+    "tags": ["gym", "buddy"],
+    "bio": "Gym partner for 2 years. We push each other to lift heavier every week.",
+    "goal": 7,
+    "next_due_date": "2025-07-30"
+  },
+  {
+    "id": 4,
+    "name": "Emily Davis",
+    "picture": "https://randomuser.me/api/portraits/women/4.jpg",
+    "email": "emily.davis@email.com",
+    "days_since_contact": 20,
+    "status": "overdue",
+    "tags": ["family", "cousin"],
+    "bio": "My cousin who lives across the country. We video call every month.",
+    "goal": 21,
+    "next_due_date": "2025-07-15"
+  },
+  {
+    "id": 5,
+    "name": "James Wilson",
+    "picture": "https://randomuser.me/api/portraits/men/5.jpg",
+    "email": "james.wilson@email.com",
+    "days_since_contact": 6,
+    "status": "almost due",
+    "tags": ["college", "roommate"],
+    "bio": "Was my roommate for 3 years. Now he works at a gaming company.",
+    "goal": 7,
+    "next_due_date": "2025-07-28"
+  },
+  {
+    "id": 6,
+    "name": "Olivia Brown",
+    "picture": "https://randomuser.me/api/portraits/women/6.jpg",
+    "email": "olivia.brown@email.com",
+    "days_since_contact": 2,
+    "status": "on-track",
+    "tags": ["book club", "close friend"],
+    "bio": "We run a book club together. Currently reading sci-fi novels.",
+    "goal": 7,
+    "next_due_date": "2025-08-01"
+  },
+  {
+    "id": 7,
+    "name": "David Martinez",
+    "picture": "https://randomuser.me/api/portraits/men/7.jpg",
+    "email": "david.martinez@email.com",
+    "days_since_contact": 12,
+    "status": "almost due",
+    "tags": ["work", "lunch buddy"],
+    "bio": "We have lunch together every weekday. He makes the best coffee.",
+    "goal": 14,
+    "next_due_date": "2025-07-22"
+  },
+  {
+    "id": 8,
+    "name": "Sophia Lee",
+    "picture": "https://randomuser.me/api/portraits/women/8.jpg",
+    "email": "sophia.lee@email.com",
+    "days_since_contact": 1,
+    "status": "on-track",
+    "tags": ["neighbor", "close friend"],
+    "bio": "Lives next door. We walk our dogs together every morning.",
+    "goal": 5,
+    "next_due_date": "2025-08-03"
+  }
+]
